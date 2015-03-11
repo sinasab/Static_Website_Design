@@ -1,17 +1,77 @@
-<title>Too Cool Programmers Redesign of Jim Davis' website!</title>
-
 <!--Start of Body-->
   <h1>Welcome to Jim Davis' page</h1>
   <br />
-  <%= image_tag '/images/jwdavis-dispatch.jpg', :alt=>'Jim Davis', :width=>'450' %>
- 
-  <div>
-  	<font color ="black" size="0" face= "arial"> Photo by Tom Dodge, Columbus Dispatch, 2009</font> 
-  </div>
+  <table id="table1">
+  	<tr>
+  		<td >
+  			<%= image_tag '/images/jwdavis-dispatch.jpg', :alt=>'Jim Davis', :width=>'450' %>
+  				<div>
+  					<font color ="black" size="0" face= "arial"> Photo by Tom Dodge, Columbus Dispatch, 2009</font>
+  				</div>
+  		</td>
+ 		<td>
+ 			<font color="black" size="+5" face="ubuntu">
+ 				Jim Davis
+ 			</font>
+ 			<font color="black" size="+2" face="ubuntu">
+ 				Ph.d, <%=link_to 'MIT','http://web.mit.edu/'%>, 2000
+ 			</font>
+ 			<br/>
+ 			<font color="black" size="+1" face="ubuntu">
+ 			Professor at <%=link_to 'THE Ohio State University', 'http://www.osu.edu'%>
+ 			<br/>
+ 			<%= link_to 'Dept. of Computer Science and Engineering', 'http://www.cse.osu.edu' %>
+ 			<br />
+ 			491 Dreese Laboratories, 2015 Neil Ave
+ 			<br/>
+ 			Columbus, OH 43210
+ 			</font>
+ 		</td>
+
+ 	</tr>
+  </table>
+  <br />
+  <br />
+  <b>Research Interests</b>
+  <p>
+  	Prof. Jim Davis, Dept. of Computer Science and Engineering, is developing advanced video surveillance systems that use computers equipped with video cameras to not only detect the presence of people and track them, but also to identify their activities. The research has broad implications for Homeland Security as well as search and rescue, border patrol, law enforcement and many other types of military applications. The systems combine video cameras with machine learning methods, enabling the computer to perform the kind of visual recognition that seems effortless for humans. Davis' work in investigating computer vision methods was recognized by the National Science Foundation with the prestigious NSF Faculty Early Career Development (CAREER) Program award. Support for this research (past and present) has been provided by the National Science Foundation, U.S. Air Force, Los Alamos National Lab, U.S. Army Night Vision Laboratory, Intel, and Ohio Board of Regents. 
+  </p>
+  <p>
+  	Technical Areas: 
+  		<%=link_to 'Computer Vision','http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/vision.html'%>
+  		<%=link_to 'Visual Perception','http://www.visionscience.com/' %>
+  		<%=link_to 'Human-Computer Interaction','http://www1.acm.org/sigs/sigchi/'%>
+  		<%=link_to 'Motion Capture','http://accad.osu.edu/research/mocap/'%>
+  		<%=link_to 'Artificial Intelligence','http://www.aaai.org/'%>
+  	</p>
+
+  <font size="+3" face="arial">
+    		Appointments
+  </font>
+  <table cellpadding="25,50,25">
+  	<tr>
+  		<td>
+  		<font size="+1" face="arial">
+  			<li>2013 - present: Full Professor,<%= link_to 'Dept. of Computer Science and Engineering', 'http://www.cse.osu.edu' %>, OSU
+  			</li>
+  			<li>2005 - 2013: Associate Professor, OSU</li>
+  			<li>2000 - 2005: Assistant Professor, OSU</li>
+  			<li>2004 - present: Faculty Member,<%= link_to 'Institue for Egronomics', 'http://ergonomics.osu.edu' %>, OSU</li>
+  			<li>2000 - present: Faculty Member,<%= link_to 'Center for Cognitive Science','http://www.cog.ohio-state.edu/' %>, OSU
+  			</li>
+  			<li>2000 - present: Affiliated Faculty,<%= link_to 'Advanced Computing Center for the Arts &amp Design','http://www.accad.ohio-state.edu/'%>, OSU 
+  			</li>
+  		</td>
+  	</tr>
+  </table>
+
+  <br />
+
   <h2 class="top">*** PLEASE NOTE THAT PROF. DAVIS WILL BE AWAY ON SABBATICAL FOR THE 2015-2016 ACADEMIC YEAR *** </h2>
   
 
  <%= link_to 'Jim Davis\' Original Page','http://web.cse.ohio-state.edu/~jwdavis/jwdavis.html' %>
+
 
  <%= link_to 'Media Page', 'media.html' %>
 

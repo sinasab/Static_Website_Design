@@ -13,7 +13,7 @@ To run: Download all the files, navigate to the "project" folder. Then run "bund
 ## Contributions
 Please list who did what for each part of the project, and if anyone [pair programmed](http://en.wikipedia.org/wiki/Pair_programming) in this section.
 
-Roman:
+Roman: Created the home page.
 
 Tom:
 
