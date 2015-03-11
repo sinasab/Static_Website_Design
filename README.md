@@ -17,7 +17,7 @@ Please list who did what for each part of the project, and if anyone [pair progr
 
 Roman: Created the home page. Tested links to make sure they were functioncal. Sina helped to correct
 
-Tom: Worked on page CSS. 
+Tom: Created initial media and news pages, edited documents to meet HTML 5 verification, worked a bit on CSS.
 
 Zach: Tested some links. Helped connect broken links to cse server so they would work. Helped to get middleman running. Played around with .erb and how to get links and css working. Updated headers to look nicer.
 
