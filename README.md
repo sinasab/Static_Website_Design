@@ -19,6 +19,6 @@ Tom:
 
 Zach:
 
-Sina: Wrote footer partition thingy. 
+Sina: Wrote footer partition thingy. Helped fix links for media and news pages.
 
 Steven:
