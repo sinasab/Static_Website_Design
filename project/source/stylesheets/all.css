@@ -38,8 +38,8 @@ a:visited {
   padding-top: 25px
 }
 
-#table1{
-  padding: "0,50,0,10";
+tr.table1{
+  padding: 0px 50px 0px 10px;
   width: 500;
   vertical-align: "top";
 }
