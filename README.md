@@ -4,6 +4,8 @@
 ## Instructions
 To run: Download all the files, navigate to the "project" folder. Then run "bundle install" in the terminal from the project directory. Then, run "bundle exec middleman build" in the terminal. Then, run "bundle exec middleman server" in the terminal. Then, open your web browser and navaigate to "localhost:4567". Feast your eyes upon our beautiful web page.
 
+Note: The pages we redesigned were the home page, the media page, and the news page. To find links to the media and news page, ctrl f "media" or "news" from the home page and follow the links.
+
 ## Roles
 * Overall Project Manager: Tom Antenucci
 * Coding Manager:  Zach Spieler
