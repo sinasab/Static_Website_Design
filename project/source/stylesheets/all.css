@@ -3,6 +3,7 @@
 body {
   background: #bb0000;
   text-align: left;
+  font-size: 15px;
   font-family: sans-serif;
   color: #d3d3d3;
 }
@@ -15,6 +16,7 @@ h1 {
   color: #d3d3d3;
   font-weight: bold;
   font-size: 25px;
+  text-align: center;
   letter-spacing: -1px;
   text-transform: uppercase;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0);
