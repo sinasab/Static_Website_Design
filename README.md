@@ -19,7 +19,7 @@ Roman: Created the home page. Tested links to make sure they were functioncal. S
 
 Tom: Worked on page CSS. 
 
-Zach: Tested some links. Helped connect broken links to cse server so they would work. Helped to get middleman running. Played around with .erb and how to get links and css working. 
+Zach: Tested some links. Helped connect broken links to cse server so they would work. Helped to get middleman running. Played around with .erb and how to get links and css working. Updated headers to look nicer.
 
 Sina: Wrote footer partition thingy. Helped fix links for media and news pages.
 
