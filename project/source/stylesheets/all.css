@@ -44,8 +44,8 @@ a:visited {
 
 tr.table1{
   padding: 0px 50px 0px 10px;
-  width: 500;
-  vertical-align: "top";
+  width: 500px;
+  vertical-align: top;
 }
 
 th, td {
@@ -54,7 +54,6 @@ th, td {
 
 td {
   font: Helvetica;
-  font-size: +2;
   font-family: sans-serif;
   color: black;
 }
