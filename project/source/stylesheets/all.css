@@ -3,6 +3,7 @@
 body {
   background: #bb0000;
   text-align: left;
+  font-size: 15px;
   font-family: sans-serif;
   color: #d3d3d3;
 }
@@ -55,7 +56,7 @@ th, td {
 
 td {
   font: Helvetica;
-  font-size: +2;
+  
   font-family: sans-serif;
   color: black;
 }
