@@ -8,7 +8,7 @@ body {
 }
 
 font {
-
+	color: black;
 }
 
 h1 {
@@ -18,16 +18,19 @@ h1 {
   letter-spacing: -1px;
   text-transform: uppercase;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0);
-  padding: 25px 450px 10px;
+  padding: 25px 0 10px;
   margin: 0; 
 }
 
 p {
-  color: rgb(0,0,0);
-  padding: 15px 0 10px;
-  font-size: 15px;
+  color: rgba(102,102,102,0);
+  padding: 50px 0 10px;
 }
-
+footer{
+  color: rgb(102,102,102);
+  padding: 500px 0 10px;
+  text-align: left;
+}
 a:link {
   color: #000000;
 }
@@ -40,21 +43,4 @@ a:visited {
   color: #d3d3d3;
   font-size: 10px;
   padding-top: 25px
-}
-
-tr.table1{
-  padding: 0px 50px 0px 10px;
-  width: 500;
-  vertical-align: "top";
-}
-
-th, td {
-  padding: 10px;
-}
-
-td {
-  font: Helvetica;
-  font-size: +2;
-  font-family: sans-serif;
-  color: black;
 }
